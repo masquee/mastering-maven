@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.acme</groupId>
-    <artifactId>sample08</artifactId>
+    <artifactId>common</artifactId>
     <version>0.0.0</version>
     <packaging>pom</packaging>
 
@@ -10,7 +10,5 @@
         <module>project1</module>
         <module>project2</module>
         <module>project3</module>
-        <module>project4</module>
-        <module>project5</module>
     </modules>
 </project>
