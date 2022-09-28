@@ -9,7 +9,7 @@
         <dependency>
             <groupId>com.acme</groupId>
             <artifactId>project2</artifactId>
-            <version>0.0.0</version>
+            <version>1.0.0</version>
         </dependency>
     </dependencies>
 </project>
